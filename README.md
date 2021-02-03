@@ -21,7 +21,6 @@ This project is my own and is not a representation of my employer's views. It is
 
 ![Screenshot](http://i.imgur.com/v852BbM.png)
 
-More screenshots are available in the ["Features" wiki pages](https://github.com/Raikia/FiercePhish/wiki/Features-Overview)
 
 # Quick Automated Install
 
